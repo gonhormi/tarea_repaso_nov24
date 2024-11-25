@@ -1,1 +1,1 @@
-# tarea_repaso_nov24
+Tras el primer commit he realizado un segundo commit añadiendo todos los archivos que pide el ejercicio, los cuales he creado desde la consola. Posteriormente, he creado la rama nueva_rama en la que ahora me encuentro, y estoy modificando este README, tras lo cual haré otro commit
